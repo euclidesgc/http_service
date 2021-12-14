@@ -12,7 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
   external_dependencies:
-    path: '../external_dependencies'
+    git:
+      url: https://github.com/euclidesgc/external_dependencies.git
+      ref: v1.0.0
 
 dev_dependencies:
   flutter_test:

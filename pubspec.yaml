@@ -1,6 +1,6 @@
 name: http_service
 description: A new Flutter package project.
-version: 0.0.1
+version: 1.1.0
 homepage:
 publish_to: none
 
@@ -14,7 +14,7 @@ dependencies:
   external_dependencies:
     git:
       url: https://github.com/euclidesgc/external_dependencies.git
-      ref: v1.0.0
+      ref: v1.1.0
 
 dev_dependencies:
   flutter_test:

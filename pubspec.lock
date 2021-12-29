@@ -54,11 +54,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.0"
-      resolved-ref: "00fed9bb6d671395f61a77fde48cf6011777b0cb"
+      ref: "v1.1.0"
+      resolved-ref: "526c0fea67bef3299426ffcc30b583cbb8a6c701"
       url: "https://github.com/euclidesgc/external_dependencies.git"
     source: git
-    version: "0.0.1"
+    version: "1.1.0"
   fake_async:
     dependency: transitive
     description:
@@ -97,13 +97,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  get:
-    dependency: transitive
-    description:
-      name: get
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "4.6.1"
   http_parser:
     dependency: transitive
     description:
